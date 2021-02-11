@@ -1,0 +1,5 @@
+name: DamageIndicator
+version: ${project.version}
+main: comfortable_andy.damageindicator.Main
+api-version: 1.16
+authors: [Comfortable_Andy]
